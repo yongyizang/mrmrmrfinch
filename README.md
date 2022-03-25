@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Yongyi (Colin) Zang</h1>
-<h3 align="left">I would like to think I'm an artistic programmer. Or just a programmer.</h3>
 
 I'm currently an undergraduate student at University of Rochester, and working under supervision of Prof. Zhiyao Duan at AIR Lab.
 
